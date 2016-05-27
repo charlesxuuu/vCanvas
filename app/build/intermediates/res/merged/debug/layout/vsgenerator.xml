@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    
+    <LinearLayout 
+        android:id="@+id/ll_vsg_btn"
+        android:layout_width="70dp"
+        android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+       	<Button 
+        	android:id="@+id/btn_vsg_stitch"
+       		android:layout_width="50dp"
+       		android:layout_height="100dp"
+        	android:layout_margin="5dp"
+            />
+    </LinearLayout>
+
+    
+    <imobile.panorama.vsgenerator.MosaicRendererSurfaceView
+		android:id="@+id/sfv_vsg_camera"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_toLeftOf="@id/ll_vsg_btn"
+	   	android:screenOrientation="landscape" 
+        />
+
+	<imobile.panorama.vsgenerator.PostureView
+	    android:id="@+id/pv_posture"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" 
+	    android:layout_alignTop="@id/sfv_vsg_camera"
+	    android:layout_alignBottom="@id/sfv_vsg_camera"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignRight="@id/sfv_vsg_camera">
+	</imobile.panorama.vsgenerator.PostureView>
+	
+	<ImageView 
+        android:id="@+id/iv_first_bmp"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" 
+	    android:layout_alignTop="@id/pv_posture"
+	    android:layout_alignBottom="@id/pv_posture"
+	    android:layout_alignLeft="@id/pv_posture"
+	    android:layout_alignRight="@id/pv_posture"
+	    android:visibility="gone"
+	    android:scaleType="fitEnd"
+        />
+</RelativeLayout>
+        
+   

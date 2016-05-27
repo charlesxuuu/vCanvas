@@ -1,0 +1,315 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/Canvas.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* Canvas.iml
+* README.md
+* common/
+* common/build.gradle
+* common/common.aar
+* encoding_gbk/
+* encoding_gbk/src/
+* encoding_gbk/src/imobile/
+* encoding_gbk/src/imobile/panorama/
+* encoding_gbk/src/imobile/panorama/PanoSpaceActivity.java
+* encoding_gbk/src/imobile/panorama/PanoSpaceApp.java
+* encoding_gbk/src/imobile/panorama/PrefActivity.java
+* encoding_gbk/src/imobile/panorama/adapter/
+* encoding_gbk/src/imobile/panorama/adapter/FileItemImageAdapter.java
+* encoding_gbk/src/imobile/panorama/adapter/FileItemTextAdapter.java
+* encoding_gbk/src/imobile/panorama/adapter/StringItemTextAdapter.java
+* encoding_gbk/src/imobile/panorama/navigation/
+* encoding_gbk/src/imobile/panorama/navigation/CountOrientation.java
+* encoding_gbk/src/imobile/panorama/navigation/CountSteps.java
+* encoding_gbk/src/imobile/panorama/navigation/NaviService.java
+* encoding_gbk/src/imobile/panorama/net/
+* encoding_gbk/src/imobile/panorama/net/Communicat.java
+* encoding_gbk/src/imobile/panorama/util/
+* encoding_gbk/src/imobile/panorama/util/Constants.java
+* encoding_gbk/src/imobile/panorama/util/HotSpot.java
+* encoding_gbk/src/imobile/panorama/util/PanoramaInfo.java
+* encoding_gbk/src/imobile/panorama/util/Path.java
+* encoding_gbk/src/imobile/panorama/util/Scene.java
+* encoding_gbk/src/imobile/panorama/util/VPSFile.java
+* encoding_gbk/src/imobile/panorama/util/VPSFileParser.java
+* encoding_gbk/src/imobile/panorama/util/VPSFilePullParser.java
+* encoding_gbk/src/imobile/panorama/vsbrowser/
+* encoding_gbk/src/imobile/panorama/vsbrowser/Cylinder.java
+* encoding_gbk/src/imobile/panorama/vsbrowser/PanoRender.java
+* encoding_gbk/src/imobile/panorama/vsbrowser/ShowPanoActivity.java
+* encoding_gbk/src/imobile/panorama/vsbrowser/ShowPanoSfView.java
+* encoding_gbk/src/imobile/panorama/vsbrowser/VSBrowserActivity.java
+* encoding_gbk/src/imobile/panorama/vseditor/
+* encoding_gbk/src/imobile/panorama/vseditor/CalibratePanoActivity.java
+* encoding_gbk/src/imobile/panorama/vseditor/ShowVPSFileActivity.java
+* encoding_gbk/src/imobile/panorama/vseditor/VSEditorActivity.java
+* encoding_gbk/src/imobile/panorama/vseditor/VSEditorActivity.java.bak
+* encoding_gbk/src/imobile/panorama/vseditor/VSPathView.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/
+* encoding_gbk/src/imobile/panorama/vsgenerator/CameraHolder.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/LocationService.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/Mosaic.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/MosaicFrameProcessor.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/MosaicRenderer.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/MosaicRendererSurfaceView.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/MosaicRendererSurfaceViewRenderer.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/PostureView.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/StitchActivity.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/Storage.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/Util.java
+* encoding_gbk/src/imobile/panorama/vsgenerator/VSGeneratorActivity.java
+* encoding_utf/
+* encoding_utf/src/
+* encoding_utf/src/imobile/
+* encoding_utf/src/imobile/panorama/
+* encoding_utf/src/imobile/panorama/PanoSpaceActivity.java
+* encoding_utf/src/imobile/panorama/PanoSpaceApp.java
+* encoding_utf/src/imobile/panorama/PrefActivity.java
+* encoding_utf/src/imobile/panorama/adapter/
+* encoding_utf/src/imobile/panorama/adapter/FileItemImageAdapter.java
+* encoding_utf/src/imobile/panorama/adapter/FileItemTextAdapter.java
+* encoding_utf/src/imobile/panorama/adapter/StringItemTextAdapter.java
+* encoding_utf/src/imobile/panorama/navigation/
+* encoding_utf/src/imobile/panorama/navigation/CountOrientation.java
+* encoding_utf/src/imobile/panorama/navigation/CountSteps.java
+* encoding_utf/src/imobile/panorama/navigation/NaviService.java
+* encoding_utf/src/imobile/panorama/net/
+* encoding_utf/src/imobile/panorama/net/Communicat.java
+* encoding_utf/src/imobile/panorama/util/
+* encoding_utf/src/imobile/panorama/util/Constants.java
+* encoding_utf/src/imobile/panorama/util/HotSpot.java
+* encoding_utf/src/imobile/panorama/util/PanoramaInfo.java
+* encoding_utf/src/imobile/panorama/util/Path.java
+* encoding_utf/src/imobile/panorama/util/Scene.java
+* encoding_utf/src/imobile/panorama/util/VPSFile.java
+* encoding_utf/src/imobile/panorama/util/VPSFileParser.java
+* encoding_utf/src/imobile/panorama/util/VPSFilePullParser.java
+* encoding_utf/src/imobile/panorama/vsbrowser/
+* encoding_utf/src/imobile/panorama/vsbrowser/Cylinder.java
+* encoding_utf/src/imobile/panorama/vsbrowser/PanoRender.java
+* encoding_utf/src/imobile/panorama/vsbrowser/ShowPanoActivity.java
+* encoding_utf/src/imobile/panorama/vsbrowser/ShowPanoSfView.java
+* encoding_utf/src/imobile/panorama/vsbrowser/VSBrowserActivity.java
+* encoding_utf/src/imobile/panorama/vseditor/
+* encoding_utf/src/imobile/panorama/vseditor/CalibratePanoActivity.java
+* encoding_utf/src/imobile/panorama/vseditor/ShowVPSFileActivity.java
+* encoding_utf/src/imobile/panorama/vseditor/VSEditorActivity.java
+* encoding_utf/src/imobile/panorama/vseditor/VSEditorActivity.java.bak
+* encoding_utf/src/imobile/panorama/vseditor/VSPathView.java
+* encoding_utf/src/imobile/panorama/vsgenerator/
+* encoding_utf/src/imobile/panorama/vsgenerator/CameraHolder.java
+* encoding_utf/src/imobile/panorama/vsgenerator/LocationService.java
+* encoding_utf/src/imobile/panorama/vsgenerator/Mosaic.java
+* encoding_utf/src/imobile/panorama/vsgenerator/MosaicFrameProcessor.java
+* encoding_utf/src/imobile/panorama/vsgenerator/MosaicRenderer.java
+* encoding_utf/src/imobile/panorama/vsgenerator/MosaicRendererSurfaceView.java
+* encoding_utf/src/imobile/panorama/vsgenerator/MosaicRendererSurfaceViewRenderer.java
+* encoding_utf/src/imobile/panorama/vsgenerator/PostureView.java
+* encoding_utf/src/imobile/panorama/vsgenerator/StitchActivity.java
+* encoding_utf/src/imobile/panorama/vsgenerator/Storage.java
+* encoding_utf/src/imobile/panorama/vsgenerator/Util.java
+* encoding_utf/src/imobile/panorama/vsgenerator/VSGeneratorActivity.java
+* output/
+* output/production/
+* output/production/Canvas/
+* output/production/Canvas/Canvas.apk
+* output/production/Canvas/Canvas.unaligned.apk
+* output/production/Canvas/imobile/
+* output/production/Canvas/imobile/panorama/
+* output/production/Canvas/imobile/panorama/BuildConfig.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$1.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$2.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$3.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$4$1.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$4.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity$5.class
+* output/production/Canvas/imobile/panorama/PanoSpaceActivity.class
+* output/production/Canvas/imobile/panorama/PanoSpaceApp.class
+* output/production/Canvas/imobile/panorama/PrefActivity.class
+* output/production/Canvas/imobile/panorama/R$array.class
+* output/production/Canvas/imobile/panorama/R$attr.class
+* output/production/Canvas/imobile/panorama/R$color.class
+* output/production/Canvas/imobile/panorama/R$drawable.class
+* output/production/Canvas/imobile/panorama/R$id.class
+* output/production/Canvas/imobile/panorama/R$layout.class
+* output/production/Canvas/imobile/panorama/R$string.class
+* output/production/Canvas/imobile/panorama/R$style.class
+* output/production/Canvas/imobile/panorama/R$xml.class
+* output/production/Canvas/imobile/panorama/R.class
+* output/production/Canvas/imobile/panorama/adapter/
+* output/production/Canvas/imobile/panorama/adapter/FileItemImageAdapter.class
+* output/production/Canvas/imobile/panorama/adapter/FileItemTextAdapter.class
+* output/production/Canvas/imobile/panorama/adapter/StringItemTextAdapter.class
+* output/production/Canvas/imobile/panorama/navigation/
+* output/production/Canvas/imobile/panorama/navigation/CountOrientation.class
+* output/production/Canvas/imobile/panorama/navigation/CountSteps.class
+* output/production/Canvas/imobile/panorama/navigation/NaviService$1.class
+* output/production/Canvas/imobile/panorama/navigation/NaviService$2.class
+* output/production/Canvas/imobile/panorama/navigation/NaviService$MyBinder.class
+* output/production/Canvas/imobile/panorama/navigation/NaviService$Screen_Off_BroadcaseReceiver.class
+* output/production/Canvas/imobile/panorama/navigation/NaviService.class
+* output/production/Canvas/imobile/panorama/net/
+* output/production/Canvas/imobile/panorama/net/Communicat.class
+* output/production/Canvas/imobile/panorama/util/
+* output/production/Canvas/imobile/panorama/util/Constants.class
+* output/production/Canvas/imobile/panorama/util/HotSpot.class
+* output/production/Canvas/imobile/panorama/util/PanoramaInfo.class
+* output/production/Canvas/imobile/panorama/util/Path.class
+* output/production/Canvas/imobile/panorama/util/Scene.class
+* output/production/Canvas/imobile/panorama/util/VPSFile.class
+* output/production/Canvas/imobile/panorama/util/VPSFileParser.class
+* output/production/Canvas/imobile/panorama/util/VPSFilePullParser.class
+* output/production/Canvas/imobile/panorama/vsbrowser/
+* output/production/Canvas/imobile/panorama/vsbrowser/Cylinder.class
+* output/production/Canvas/imobile/panorama/vsbrowser/PanoRender.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity$1.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity$2.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity$3.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity$4.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity$ShowPanoHandler.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoActivity.class
+* output/production/Canvas/imobile/panorama/vsbrowser/ShowPanoSfView.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$1.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$10.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$11.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$2.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$3.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$4.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$5.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$6.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$7.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$8.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$9.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity$NetAsyncTask.class
+* output/production/Canvas/imobile/panorama/vsbrowser/VSBrowserActivity.class
+* output/production/Canvas/imobile/panorama/vseditor/
+* output/production/Canvas/imobile/panorama/vseditor/CalibratePanoActivity$1.class
+* output/production/Canvas/imobile/panorama/vseditor/CalibratePanoActivity$2.class
+* output/production/Canvas/imobile/panorama/vseditor/CalibratePanoActivity$3.class
+* output/production/Canvas/imobile/panorama/vseditor/CalibratePanoActivity$ShowPanoHandler.class
+* output/production/Canvas/imobile/panorama/vseditor/CalibratePanoActivity.class
+* output/production/Canvas/imobile/panorama/vseditor/ShowVPSFileActivity$1.class
+* output/production/Canvas/imobile/panorama/vseditor/ShowVPSFileActivity.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$1.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$10.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$11.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$12.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$13.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$14.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$15.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$16.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$2.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$3.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$4.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$5.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$6.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$7.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$8.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$9.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity$ChooseScArrayAdapter.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity.class
+* output/production/Canvas/imobile/panorama/vseditor/VSEditorActivity.java.bak
+* output/production/Canvas/imobile/panorama/vseditor/VSPathView.class
+* output/production/Canvas/imobile/panorama/vsgenerator/
+* output/production/Canvas/imobile/panorama/vsgenerator/CameraHolder$ReleaseHandler.class
+* output/production/Canvas/imobile/panorama/vsgenerator/CameraHolder.class
+* output/production/Canvas/imobile/panorama/vsgenerator/LocationService$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/LocationService$LocationBinder.class
+* output/production/Canvas/imobile/panorama/vsgenerator/LocationService.class
+* output/production/Canvas/imobile/panorama/vsgenerator/Mosaic.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicFrameProcessor$ProgressListener.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicFrameProcessor.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRenderer.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$2.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$3.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$4.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$ConfigChooser.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView$ContextFactory.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceView.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceViewRenderer$MosaicSurfaceCreateListener.class
+* output/production/Canvas/imobile/panorama/vsgenerator/MosaicRendererSurfaceViewRenderer.class
+* output/production/Canvas/imobile/panorama/vsgenerator/PostureView.class
+* output/production/Canvas/imobile/panorama/vsgenerator/StitchActivity$1$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/StitchActivity$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/StitchActivity$StitchBR.class
+* output/production/Canvas/imobile/panorama/vsgenerator/StitchActivity.class
+* output/production/Canvas/imobile/panorama/vsgenerator/Storage.class
+* output/production/Canvas/imobile/panorama/vsgenerator/Util.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$10.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$11$1.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$11.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$2.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$3.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$4.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$5.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$6.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$7.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$8.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$9.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$MosaicJpeg.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$VSGHandler.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity$WifiBR.class
+* output/production/Canvas/imobile/panorama/vsgenerator/VSGeneratorActivity.class
+* proguard.cfg
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/armeabi/libjni_mosaic.so => app/src/main/jniLibs/armeabi/libjni_mosaic.so
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/imobile/panorama/vseditor/VSEditorActivity.java.bak => app/src/main/resources/imobile/panorama/vseditor/VSEditorActivity.java.bak
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

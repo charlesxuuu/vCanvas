@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <TextView
+        android:id="@+id/tv_np_namepano"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="Panorama Name："
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        />
+    
+    <EditText 
+        android:id="@+id/et_np_namepano"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/tv_np_namepano"
+        android:layout_alignParentLeft="true"
+        android:textSize="20dp"
+        />
+</RelativeLayout>

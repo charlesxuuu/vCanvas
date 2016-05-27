@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vCanvas</string>
+    <string name="about">About</string>
+    <string name="begin">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_panorama">Panorama Creator</string>
+    <string name="create_vps">Virtual Tour Editor</string>
+    <string name="coverage_360">Complete 360°</string>
+    <string name="duplication_pano_name">Rename the Panorama</string>
+    <string name="exit">Exit</string>
+    <string name="elapsed_time">Elapsed time</string>
+    <string name="help">Help</string>
+    <string name="my_panoramas">My Virtual Tour</string>
+    <string name="moving_fast">Moving Too fast!</string>
+    <string name="nvaigation">Navigation</string>
+    <string name="no">Cancel</string>
+    <string name="ok">Confirm</string>
+    <string name="open_gps">Using GPS</string>
+    <string name="pano_name">Panorama Name</string>
+    <string name="setting">Setting</string>
+    <string name="stitch_success">Stitching Successfully!</string>
+    <string name="stitch_panorama">Processing...</string>
+    <string name="use_gps_panorama">Whether using GPS localization?</string>
+    <string name="wrong_directory">Wrong file directory!</string>
+    <string name="yes">Confirm</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="dialog_ok">Confirm</string>
+    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
+</resources>

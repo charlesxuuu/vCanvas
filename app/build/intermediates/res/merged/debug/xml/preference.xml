@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	
+    <PreferenceCategory 
+        android:title="基本设置"
+        >
+        <CheckBoxPreference 
+            android:key="PREF_CB_GEOTAG"
+            android:title="地理标签"
+            android:summary="当拍摄全景图时，是否给采用GPS定位全景图的位置？"
+            android:defaultValue="true"
+            />
+        <CheckBoxPreference 
+            android:key="PREF_CB_DRAWGRID"
+            android:title="网格"
+            android:summary="当选择时，在全景空间编辑器的背景上画网格？"
+            android:defaultValue="false"
+            />
+    </PreferenceCategory>
+    
+    <PreferenceCategory 
+        android:title="相机参数"
+        >
+        <!--  <CheckBoxPreference 
+            android:key="PREF_CB_AUTO_FOCUS"
+            android:title="自动聚焦"
+            android:summary="When checked, auto focus will be performed when taking picture"
+            android:defaultValue="false"
+            />
+        <CheckBoxPreference 
+            android:key="PREF_CB_AUTO_FLASH"
+            android:title="自动闪光"
+            android:summary="When checked, auto focus will be performed when taking picture"
+            android:defaultValue="false"
+            /> -->
+       
+        <CheckBoxPreference 
+            android:key="PREF_CB_FIRST_PICTURE"
+            android:title="起始照片"
+            android:summary="是否在右侧显示起始拍摄的位置，用于合成高精确缝合的全景图片"
+            android:defaultValue="true"
+            />
+        <CheckBoxPreference 
+            android:key="PREF_CB_HIGH_VALUE_PICTURE"
+            android:title="高质量图片"
+            android:summary="是否合成高质量全景图片，由于质量较高，则合成时费时较长"
+            android:defaultValue="true"
+            />
+    </PreferenceCategory>
+    
+    
+    <PreferenceCategory 
+        android:title="惯导设置"
+        >
+        <ListPreference
+            android:key="PREF_LST_SENSITIVITY"
+            android:title="灵敏度"
+            android:summary="步数统计的灵敏程度？"
+            android:entries="@array/degrees_of_sensitivity"
+            android:entryValues="@array/values_of_sensitivity"
+            android:dialogTitle="选择灵敏度水平"
+            android:defaultValue="1"
+            />
+        <EditTextPreference 
+            android:key="PREF_ET_STEP_LENGTH"
+            android:title="步长"
+            android:summary="设置步长，用于测量移动距离"
+            android:dialogTitle="输入你的步长（米）"
+            android:defaultValue="0.4"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>

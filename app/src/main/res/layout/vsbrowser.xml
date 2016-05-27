@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    >
+    <RelativeLayout
+        android:id="@+id/rl_vsb_singlepano"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <ListView 
+            android:id="@+id/lv_vsb_panos"
+            android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+            ></ListView>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/rl_vsb_vpsfile"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <ListView 
+            android:id="@+id/lv_vsb_vpsfiles"
+            android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+            ></ListView>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/rl_vsb_web"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <ListView 
+            android:id="@+id/lv_vsb_webfiles"
+            android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+            ></ListView>
+       
+    </RelativeLayout>
+    
+</FrameLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_cardboard_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_cardboard_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_fullscreen_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_fullscreen_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_upward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_upward_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_downward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_downward_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_back_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_back_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_info_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_info_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_fullscreen_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_fullscreen_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_downward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_downward_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_back_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_back_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_info_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_info_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_cardboard_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/commonwidget/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_cardboard_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_arrow_upward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxxhdpi-v4/quantum_ic_arrow_upward_white_24.png"
+    }
+]

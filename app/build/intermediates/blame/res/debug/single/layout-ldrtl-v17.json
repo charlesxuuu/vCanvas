@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/back_button.xml",
+        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/back_button.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout-ldrtl-v17/back_button.xml"
+    }
+]

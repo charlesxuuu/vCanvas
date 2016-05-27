@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <imobile.panorama.vsbrowser.ShowPanoSfView
+        android:id="@+id/sfv_pano"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+    
+    <RelativeLayout 
+        android:id="@+id/ll_nextpic"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+       	android:background="#0033AABB"
+        >
+        <Button 
+        	android:id="@+id/btn_nextpic"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentBottom="true"
+        	android:layout_centerHorizontal="true"
+        	android:background="@drawable/next_scene"
+        	android:visibility="invisible"
+        	></Button>
+        <ImageView 
+            android:id="@+id/iv_prev_image"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:background="#77ADBCEF"
+            android:visibility="invisible"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_angle"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:visibility="invisible"
+            />
+    </RelativeLayout>
+</FrameLayout>

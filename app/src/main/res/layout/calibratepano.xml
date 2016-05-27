@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <imobile.panorama.vsbrowser.ShowPanoSfView
+        android:id="@+id/sfv_cali_pano"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+    
+    <LinearLayout 
+        android:id="@+id/ll_cali_nextpic"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+       	android:gravity="center"
+       	android:background="#0033AABB"
+        >
+        <ImageButton 
+        	android:id="@+id/btn_cali_nextpic"
+        	android:layout_width="100dp"
+        	android:layout_height="50dp"
+        	android:textSize="30dp"
+        	android:background="#99AABBCC"
+        	android:visibility="invisible"
+        	></ImageButton>
+    </LinearLayout>
+    
+    <RelativeLayout
+        android:id="@+id/ll_cali_nextpic"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+       	android:background="#0033AABB"
+        >
+        <ImageButton 
+        	android:id="@+id/btn_cali_moveleft"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentLeft="true"
+      		android:layout_alignParentBottom="true"
+      		android:src="@drawable/btn_left"
+      		android:scaleType="fitCenter"
+        	android:visibility="invisible"
+        	/>
+        <ImageButton 
+        	android:id="@+id/btn_cali_moveright"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentRight="true"
+      		android:layout_alignParentBottom="true"
+      		android:src="@drawable/btn_right"
+      		android:scaleType="fitCenter"
+        	android:visibility="invisible"
+        	/>
+    </RelativeLayout>
+</FrameLayout>

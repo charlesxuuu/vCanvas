@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <imobile.panorama.vseditor.VSPathView
+        android:id="@+id/vspv_draw"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+		android:background="#FFEEEEEE"
+        />
+    
+    <TextView
+        android:id="@+id/tv_vse_name"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Virtual Tour  Editor"
+        android:textSize="20dp"
+		android:textColor="#FF212121"
+        android:gravity="center_vertical"
+        />
+    
+    <LinearLayout 
+        android:id="@+id/ll_vse_scale"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_vse_name"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:orientation="vertical"
+        >
+        <ImageButton 
+            android:id="@+id/btn_vse_scale_big"
+            android:layout_width="40dp"
+        	android:layout_height="40dp"
+        	android:layout_marginTop="3dp"
+        	android:layout_marginBottom="3dp"
+        	android:gravity="center"
+        	android:singleLine="true"
+        	android:src="@drawable/scale_big"
+        	android:scaleType="fitCenter"
+            />
+        <ImageButton 
+            android:id="@+id/btn_vse_scale_small"
+            android:layout_width="40dp"
+        	android:layout_height="40dp"
+        	android:gravity="center"
+        	android:singleLine="true"
+        	android:src="@drawable/scale_small"
+        	android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+    
+    
+    <ImageView 
+        android:id="@+id/iv_vse_northicon"
+        android:layout_width="20dp"
+        android:layout_height="36dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tv_vse_name"
+        android:src="@drawable/northicon"
+        android:scaleType="fitXY"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_marginTop="5dp" />
+    
+    
+    <LinearLayout 
+        android:id="@+id/ll_vse_movescene"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="5dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+		android:visibility="visible"
+        android:layout_alignParentLeft="true">
+
+        <LinearLayout
+            android:id="@+id/ll_vse_oper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:visibility="visible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btn_vse_pano"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="Panorama"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btn_vse_navi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="Navigate"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btn_vse_delete"
+                    android:layout_width="80dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="Delete"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btn_vse_save"
+                    android:layout_width="80dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="Save"
+                    android:textSize="15dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout 
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:gravity="center"
+            >
+
+            <ImageButton
+                android:id="@+id/btn_vse_moveleft"
+                android:layout_width="45dp"
+                android:layout_height="42dp"
+                android:padding="10dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/btn_left" />
+
+        </LinearLayout>
+        <LinearLayout 
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:gravity="center"
+            >
+            <ImageButton 
+            	android:id="@+id/btn_vse_moveright"
+            	android:layout_width="45dp"
+        		android:layout_height="42dp"
+        		android:src="@drawable/btn_right"
+        		android:scaleType="fitXY"
+        		android:padding="10dp"
+            />
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:gravity="center"
+            >
+            <ImageButton 
+            	android:id="@+id/btn_vse_movetop"
+            	android:layout_width="45dp"
+        		android:layout_height="42dp"
+        		android:src="@drawable/btn_top"
+        		android:scaleType="fitXY"
+        		android:padding="10dp"
+            />
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:gravity="center"
+            >
+            <ImageButton 
+            	android:id="@+id/btn_vse_movebottom"
+            	android:layout_width="45dp"
+        		android:layout_height="42dp"
+        		android:src="@drawable/btn_bottom"
+        		android:scaleType="fitXY"
+        		android:padding="10dp"
+            />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

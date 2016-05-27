@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <TextView
+        android:id="@+id/tv_d_namevps"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="File Name:"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        />
+    
+    <EditText 
+        android:id="@+id/et_d_namevps"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/tv_d_namevps"
+        android:layout_alignParentLeft="true"
+        android:textSize="20dp"
+        android:layout_margin="5dp"
+        />
+
+</RelativeLayout>
