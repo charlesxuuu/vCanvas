@@ -179,7 +179,7 @@ public class ShowPanoActivity extends Activity{
 //				}else{
 //					System.out.println("bmpV null");
 //				}
-				
+
 				nextScene(nextID);
 //				
 //				ivImage.setVisibility(View.VISIBLE);
@@ -223,7 +223,7 @@ public class ShowPanoActivity extends Activity{
         super.onResume();
         view.onResume();
         
-        leftAngle = view.setNewScene(mSc);
+        leftAngle = view.setNewScene(mSc); //Scene mSc
         
         sm = (SensorManager)getSystemService(Context.SENSOR_SERVICE);
         mAcce  = sm.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
@@ -425,6 +425,8 @@ public class ShowPanoActivity extends Activity{
 			break;
 		case MENU_CARD_MODE:
 			Intent in = new Intent(ShowPanoActivity.this, CardBoardActivity.class);
+			//TO-DO
+			//in.putExtra("""");
 			startActivity(in);
 			break;
 		case MENU_SHOW_IN_MAP:
