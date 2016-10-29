@@ -1,15 +1,2 @@
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$layout$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/PanoSpaceActivity$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/vseditor/VSEditorActivity$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$xml$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/vsgenerator/PostureView$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/vr/cardboard/R$drawable$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$drawable$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/vr/sdk/widgets/pano/R$drawable$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$id$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$style$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/R$string$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/vsgenerator/VSGeneratorActivity$override.class
-CHANGED,/home/chix/Reporsitory/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/vr/widgets/common/R$drawable$override.class
+CHANGED,/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/imobile/panorama/net/Communicat$override.class

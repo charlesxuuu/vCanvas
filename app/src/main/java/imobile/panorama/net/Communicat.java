@@ -32,7 +32,7 @@ import android.widget.Toast;
 
 public class Communicat
 {
-	public static final String ip = "http://219.245.68.132/";
+	public static final String ip = "http://199.60.17.176/";
 	
 	//获取远方列表
 	public List<String> getXmlList()
@@ -217,7 +217,8 @@ public class Communicat
 	                sb1.append("Content-Type: application/octet-stream; charset="  
 	                        + CHARSET + LINEND);  
 	                sb1.append(LINEND);  
-	                outStream.write(sb1.toString().getBytes()); //System.out.println(sb1);
+	                outStream.write(sb1.toString().getBytes());
+					//System.out.println("--------------------------------" + sb1);
 	                InputStream is = new FileInputStream(file.getValue());  
 	                byte[] buffer = new byte[1024];  
 	                int len = 0;  

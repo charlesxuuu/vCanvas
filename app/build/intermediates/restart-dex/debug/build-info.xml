@@ -4,29 +4,31 @@
     api-level="22"
     density="xxhdpi"
     format="7"
-    timestamp="686455711050149" >
+    timestamp="43899084460696" >
 
     <task
         name="javac"
-        duration="1516" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="301" />
+        duration="0" />
     <task
         name="verifier"
-        duration="28" />
+        duration="0" />
 
-    <artifact
-        location="/home/chix/Reporsitory/vCanvas/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="686455711050149" >
+    <build timestamp="29142959480819" >
         <artifact
-            location="/home/chix/Reporsitory/vCanvas/app/build/outputs/apk/app-debug.apk"
+            location="/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="30502059138038" >
+        <artifact
+            location="/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="43899084460696" />
 
 </instant-run>

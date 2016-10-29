@@ -150,6 +150,7 @@ public class VSBrowserActivity extends TabActivity{
 			public boolean onItemLongClick(AdapterView<?> arg0, View v,
 					int position, long arg3) {
 				dFile = lstPanos.get(position);
+
 				dId = 0;
 				showDialog(DIALOG_SET);
 				return true;
@@ -362,9 +363,9 @@ public class VSBrowserActivity extends TabActivity{
 				
 				result = 3;
 			}else if(arg0[0].endsWith(TASK_UL_XML)){
-				comm.uploadXmlFile(Communicat.ip + "uploadXml.php", dFile.getAbsolutePath());
+				comm.uploadXmlFile(Communicat.ip + "upload/uploadXml.php", dFile.getAbsolutePath());
 				
-				VPSFile.importFromFile(dFile.getAbsolutePath());
+				VPSFile.importFromFile(dFile.getName());
 				
 
 				Map<String, File> files = new HashMap<String, File>();   
@@ -375,7 +376,7 @@ public class VSBrowserActivity extends TabActivity{
 							new File(sc.sPanoFile));  
 				}
 				try {
-					comm.uploadFiles(Communicat.ip + "uploadPic.php", files);
+					comm.uploadFiles(Communicat.ip + "upload/uploadPic.php", files);
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

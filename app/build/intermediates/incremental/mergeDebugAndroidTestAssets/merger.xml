@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/chix/Reporsitory/vCanvas/app/src/androidTest/assets"/><source path="/home/chix/Reporsitory/vCanvas/app/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/androidTest/assets"/><source path="/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

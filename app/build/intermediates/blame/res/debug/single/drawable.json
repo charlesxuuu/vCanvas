@@ -1,342 +1,170 @@
 [
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/staticmap.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/staticmap.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe_orange.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/orien_up_pipe_orange.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/orien_up_pipe.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe_orange.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/orien_left_pipe_orange.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/main_title_bar.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/main_title_bar.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_normal.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/shutter_btn_normal.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_bg_clicked.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_bg_clicked.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_click.xml",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/editor_btn_click.xml"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/northicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/northicon.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_clicked.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/editor_btn_bg_clicked.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_bg_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_bg_normal.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/vpsfile_item_bg.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/vpsfile_item_bg.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/panospace.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/panospace.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_settings_48dp.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable/ic_settings_48dp.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/vpsfile_item_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/vpsfile_item_bg.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/northicon.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/northicon.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/shutter_btn_focus.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/shutter_btn_focus.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/next_scene2.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/next_scene2.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/editor_btn_bg_normal.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_top.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_top.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/next_scene2.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/next_scene2.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bg_clicked.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_bg_clicked.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/fileicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/fileicon.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim0.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/ic_map_anim0.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/tab_title.xml",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/tab_title.xml"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/orien_up_pipe.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/scale_big.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/scale_big.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim3.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/ic_map_anim3.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_clicked.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/editor_btn_bg_clicked.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bg_normal.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_bg_normal.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/panospace.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/panospace.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_middle_ball.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/orien_middle_ball.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim1.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/ic_map_anim1.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_normal.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/tab_normal.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_left_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/aorien_left_pipe.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/orien_left_pipe.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/next_scene3.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/next_scene3.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_up_pipe.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/aorien_up_pipe.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_up_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/aorien_up_pipe_orange.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim2.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/ic_map_anim2.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/ic_map_anim0.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/ic_map_anim0.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/panospace.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/panospace.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/fileicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/fileicon.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/main_btn_click.xml",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/main_btn_click.xml"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/ic_map_anim2.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/ic_map_anim2.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_right.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_right.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/shutter_btn_normal.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_focus.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/shutter_btn_focus.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/shutter_btn_bg.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bottom.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_bottom.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bg_clicked.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_bg_clicked.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_title.xml",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/tab_title.xml"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/ic_settings_48dp.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/exploded-aar/vCanvas1/common/unspecified/res/drawable/ic_settings_48dp.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/scale_small.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/scale_small.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/tab_normal.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_left_pipe.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/aorien_left_pipe.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/main_btn_click.xml",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/main_btn_click.xml"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim1.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/ic_map_anim1.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/vpsicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/vpsicon.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_up_pipe_orange.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/aorien_up_pipe_orange.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_middle_ball.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/orien_middle_ball.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/scale_big.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/scale_big.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_right.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_right.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_bg.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/shutter_btn_bg.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/ic_map_anim1.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/ic_map_anim1.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/next_scene.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/next_scene.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_title.xml",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/tab_title.xml"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/fileicon.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/fileicon.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/main_pic_frame.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/main_pic_frame.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_title_bg.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/editor_title_bg.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/showcase.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/showcase.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/staticmap.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/staticmap.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/staticmap.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/staticmap.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_normal.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/editor_btn_bg_normal.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/vpsfile_item_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/vpsfile_item_bg.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_left.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/btn_left.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/orien_up_pipe_orange.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_focus.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/tab_focus.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/shutter_btn_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/shutter_btn_bg.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/vpsicon.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/vpsicon.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/ic_map_anim3.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/ic_map_anim3.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/showcase.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/showcase.png"
     },
     {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/scale_small.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/scale_small.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/vpsicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/vpsicon.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/editor_btn_click.xml",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/editor_btn_click.xml"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/next_scene.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/next_scene.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_clicked.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/editor_btn_bg_clicked.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/tab_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/tab_normal.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim2.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/ic_map_anim2.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/scale_big.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/scale_big.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/main_btn_click.xml",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/main_btn_click.xml"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_bottom.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_bottom.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/shutter_btn_focus.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/shutter_btn_focus.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/next_scene.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/next_scene.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_top.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_top.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/orien_left_pipe_orange.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/northicon.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/northicon.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/editor_btn_bg_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/editor_btn_bg_normal.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_left_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/aorien_left_pipe_orange.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim0.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/ic_map_anim0.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_right.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_right.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/orien_left_pipe_orange.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/showcase.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/showcase.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/background.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/background.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/tab_focus.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/tab_focus.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/orien_left_pipe.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_title_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/editor_title_bg.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/next_scene3.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/next_scene3.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/scale_small.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/scale_small.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_map_anim3.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/ic_map_anim3.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/orien_middle_ball.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/orien_middle_ball.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/editor_btn_click.xml",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/editor_btn_click.xml"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/tab_focus.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/tab_focus.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bottom.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_bottom.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_bg_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_bg_normal.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/panospace2.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/panospace2.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/shutter_btn_normal.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/shutter_btn_normal.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/ic_settings_48dp.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable/ic_settings_48dp.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/orien_up_pipe.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/editor_title_bg.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/editor_title_bg.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/orien_up_pipe_orange.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/orien_up_pipe_orange.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/btn_left.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/btn_left.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_up_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/aorien_up_pipe.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_top.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_top.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas1/app/build/intermediates/res/merged/debug/drawable/btn_left.png",
-        "source": "/home/chix/Reporsitory/vCanvas1/app/src/main/res/drawable/btn_left.png"
-    },
-    {
-        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable/orien_left_pipe.png",
-        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/drawable/orien_left_pipe.png"
+        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable/aorien_left_pipe_orange.png",
+        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/drawable/aorien_left_pipe_orange.png"
     }
 ]

@@ -163,6 +163,7 @@ public class VPSFile {
 			}
 		}
 	}
+
 	/* 读取文件操作 */
 	public static void importFromFile(String fileName){
 		clear();
