@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values-v21/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values-v21/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout-land/ui_layer_with_portrait_support.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout-land/back_button.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout-land/back_button.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout-land/back_button.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout-land/ui_layer_with_portrait_support.xml"
     }
 ]

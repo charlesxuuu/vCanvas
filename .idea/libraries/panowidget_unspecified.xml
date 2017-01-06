@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="panowidget-unspecified">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/res" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

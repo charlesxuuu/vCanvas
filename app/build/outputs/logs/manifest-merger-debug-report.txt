@@ -1,173 +1,173 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:2:1-85:12
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:2:1-85:12
 	package
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:3:5-31
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:7:5-44
-MERGED from [com.android.support:support-v4:23.4.0] /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [vCanvas:common:unspecified] /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/AndroidManifest.xml:5:5-7:41
-MERGED from [vCanvas:commonwidget:unspecified] /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/AndroidManifest.xml:3:5-73
-MERGED from [vCanvas:panowidget:unspecified] /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/AndroidManifest.xml:5:5-7:41
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v4:23.4.0] /home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [vCanvas:common:unspecified] /home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/AndroidManifest.xml:5:5-7:41
+MERGED from [vCanvas:commonwidget:unspecified] /home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/AndroidManifest.xml:3:5-73
+MERGED from [vCanvas:panowidget:unspecified] /home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:7:15-41
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:8:5-65
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:8:22-62
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:8:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:10:5-79
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:11:5-81
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:11:22-78
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:11:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:12:5-67
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:12:22-64
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:13:5-75
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:13:22-73
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:13:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:14:5-75
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:14:22-73
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:14:22-73
 uses-feature#android.hardware.camera
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:16:5-60
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:16:5-60
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:16:19-57
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:16:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:17:5-70
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:17:5-70
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:17:19-67
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:17:19-67
 uses-feature#android.hardware.sensor.stepcounter
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:18:5-72
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:18:5-72
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:18:19-69
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:18:19-69
 uses-feature#android.hardware.sensor.stepdetector
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:19:5-73
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:19:5-73
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:19:19-70
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:19:19-70
 application
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:21:5-83:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:21:5-83:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:24:9-41
 	android:icon
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:22:9-38
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:22:9-38
 	android:theme
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:23:9-40
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:23:9-40
 activity#imobile.panorama.PanoSpaceActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:25:9-33:20
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:28:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:28:13-50
 	android:label
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:27:13-45
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:26:13-46
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:26:13-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:29:13-32:29
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:31:27-74
 activity#imobile.panorama.PrefActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:34:9-37:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:34:9-37:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:36:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:36:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:35:13-41
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:35:13-41
 activity#imobile.panorama.vsbrowser.VSBrowserActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:38:9-41:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:38:9-41:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:40:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:40:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:39:13-56
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:39:13-56
 activity#imobile.panorama.vsbrowser.ShowPanoActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:42:9-45:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:42:9-45:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:44:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:44:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:43:13-55
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:43:13-55
 activity#imobile.panorama.vsbrowser.map.LocMapActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:46:9-49:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:46:9-49:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:48:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:48:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:47:13-57
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:47:13-57
 activity#imobile.panorama.vsbrowser.CardBoardActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:50:9-53:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:50:9-53:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:52:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:52:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:51:13-56
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:51:13-56
 activity#imobile.panorama.vsgenerator.VSGeneratorActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:54:9-57:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:54:9-57:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:56:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:56:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:55:13-60
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:55:13-60
 activity#imobile.panorama.vsgenerator.StitchActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:58:9-61:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:58:9-61:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:60:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:60:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:59:13-55
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:59:13-55
 service#imobile.panorama.vsgenerator.LocationService
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:62:9-64:24
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:62:9-64:24
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:63:13-56
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:63:13-56
 service#imobile.panorama.vsgenerator.ImageService
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:65:9-67:24
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:65:9-67:24
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:66:13-53
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:66:13-53
 activity#imobile.panorama.vseditor.VSEditorActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:68:9-71:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:68:9-71:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:70:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:70:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:69:13-54
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:69:13-54
 activity#imobile.panorama.vseditor.ShowVPSFileActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:72:9-75:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:72:9-75:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:74:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:74:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:73:13-57
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:73:13-57
 activity#imobile.panorama.vseditor.CalibratePanoActivity
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:76:9-79:25
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:76:9-79:25
 	android:screenOrientation
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:78:13-50
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:78:13-50
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:77:13-59
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:77:13-59
 service#imobile.panorama.navigation.NaviService
-ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:80:9-82:24
+ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:80:9-82:24
 	android:name
-		ADDED from /Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/AndroidManifest.xml:81:13-51
+		ADDED from /home/chix/Reporsitory/vCanvas/app/src/main/AndroidManifest.xml:81:13-51

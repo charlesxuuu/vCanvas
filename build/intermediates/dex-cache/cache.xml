@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c00e595289519cb6db85d56a3545144146624554">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/vCanvas-commonwidget-unspecified_90eaae3d0a58106d64519e4d1f2582935f8203b8.jar" />
+    </item>
+    <item
+        jar="/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0e0c7f21a2bb0b8e8564f980bfa8678b75e03554.jar" />
+    </item>
+    <item
+        jar="/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="14d8e2db765b78b2f6edbf655edb9d493314a257">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/vCanvas-common-unspecified_043915676631036a5d8494bfc669468995cd2208.jar" />
+    </item>
+    <item
+        jar="/home/chix/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5a3b019eada3d75216326412f6162815a726588b.jar" />
+    </item>
+    <item
+        jar="/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_64a7decd0d5e02eab06e1c9e98a0ff3c5ab55edc.jar" />
+    </item>
+    <item
+        jar="/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/panowidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8b53de24b4bd7d3bcb7a19c69a8664ea676a5eeb">
+        <dex dex="/home/chix/Reporsitory/vCanvas/app/build/intermediates/pre-dexed/debug/vCanvas-panowidget-unspecified_1ecf478744a81ff325929eb6d14e4b8293a33320.jar" />
+    </item>
+
+</items>

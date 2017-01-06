@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 238
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/arrays.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/arrays.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endLine": 6,
                         "endColumn": 19,
-                        "endOffset": 188
+                        "endOffset": 194
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 375
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/arrays.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/arrays.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 193,
+                        "startOffset": 200,
                         "endLine": 11,
                         "endColumn": 19,
-                        "endOffset": 325
+                        "endOffset": 336
                     }
                 }
             },
@@ -53,7 +53,7 @@
                     "endOffset": 432
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -72,13 +72,13 @@
                     "endOffset": 477
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/colors.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 44,
-                        "endOffset": 95
+                        "endOffset": 97
                     }
                 }
             },
@@ -91,13 +91,13 @@
                     "endOffset": 534
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/colors.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 146,
+                        "startOffset": 150,
                         "endColumn": 56,
-                        "endOffset": 198
+                        "endOffset": 202
                     }
                 }
             },
@@ -110,13 +110,13 @@
                     "endOffset": 580
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/colors.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 100,
+                        "startOffset": 103,
                         "endColumn": 45,
-                        "endOffset": 141
+                        "endOffset": 144
                     }
                 }
             },
@@ -129,7 +129,7 @@
                     "endOffset": 634
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -148,7 +148,7 @@
                     "endOffset": 690
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -167,7 +167,7 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -186,7 +186,7 @@
                     "endOffset": 795
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -205,7 +205,7 @@
                     "endOffset": 857
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -224,7 +224,7 @@
                     "endOffset": 906
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -243,13 +243,13 @@
                     "endOffset": 946
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 101,
+                        "startOffset": 105,
                         "endColumn": 39,
-                        "endOffset": 136
+                        "endOffset": 140
                     }
                 }
             },
@@ -262,13 +262,13 @@
                     "endOffset": 991
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 44,
-                        "endOffset": 96
+                        "endOffset": 99
                     }
                 }
             },
@@ -282,7 +282,7 @@
                     "endOffset": 1226
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -302,13 +302,13 @@
                     "endOffset": 1266
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 141,
+                        "startOffset": 146,
                         "endColumn": 39,
-                        "endOffset": 176
+                        "endOffset": 181
                     }
                 }
             },
@@ -321,13 +321,13 @@
                     "endOffset": 1308
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 181,
+                        "startOffset": 187,
                         "endColumn": 41,
-                        "endOffset": 218
+                        "endOffset": 224
                     }
                 }
             },
@@ -341,7 +341,7 @@
                     "endOffset": 1616
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -361,13 +361,13 @@
                     "endOffset": 1671
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 343,
+                        "startOffset": 352,
                         "endColumn": 54,
-                        "endOffset": 393
+                        "endOffset": 402
                     }
                 }
             },
@@ -380,13 +380,13 @@
                     "endOffset": 1732
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 223,
+                        "startOffset": 230,
                         "endColumn": 60,
-                        "endOffset": 279
+                        "endOffset": 286
                     }
                 }
             },
@@ -399,13 +399,13 @@
                     "endOffset": 1791
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 284,
+                        "startOffset": 292,
                         "endColumn": 58,
-                        "endOffset": 338
+                        "endOffset": 346
                     }
                 }
             },
@@ -419,7 +419,7 @@
                     "endOffset": 2133
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -440,7 +440,7 @@
                     "endOffset": 2370
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -460,13 +460,13 @@
                     "endOffset": 2416
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1386,
+                        "startOffset": 1414,
                         "endColumn": 45,
-                        "endOffset": 1427
+                        "endOffset": 1455
                     }
                 }
             },
@@ -480,7 +480,7 @@
                     "endOffset": 2619
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -500,13 +500,13 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 398,
+                        "startOffset": 408,
                         "endColumn": 69,
-                        "endOffset": 463
+                        "endOffset": 473
                     }
                 }
             },
@@ -519,13 +519,13 @@
                     "endOffset": 2743
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 506,
+                        "startOffset": 518,
                         "endColumn": 53,
-                        "endOffset": 555
+                        "endOffset": 567
                     }
                 }
             },
@@ -538,13 +538,13 @@
                     "endOffset": 2781
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 468,
+                        "startOffset": 479,
                         "endColumn": 37,
-                        "endOffset": 501
+                        "endOffset": 512
                     }
                 }
             },
@@ -558,7 +558,7 @@
                     "endOffset": 3087
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3210
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -599,13 +599,13 @@
                     "endOffset": 3248
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 560,
+                        "startOffset": 573,
                         "endColumn": 37,
-                        "endOffset": 593
+                        "endOffset": 606
                     }
                 }
             },
@@ -618,13 +618,13 @@
                     "endOffset": 3344
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1290,
+                        "startOffset": 1317,
                         "endColumn": 95,
-                        "endOffset": 1381
+                        "endOffset": 1408
                     }
                 }
             },
@@ -637,13 +637,13 @@
                     "endOffset": 3401
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 655,
+                        "startOffset": 670,
                         "endColumn": 56,
-                        "endOffset": 707
+                        "endOffset": 722
                     }
                 }
             },
@@ -656,13 +656,13 @@
                     "endOffset": 3458
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 598,
+                        "startOffset": 612,
                         "endColumn": 56,
-                        "endOffset": 650
+                        "endOffset": 664
                     }
                 }
             },
@@ -675,13 +675,13 @@
                     "endOffset": 3496
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 762,
+                        "startOffset": 779,
                         "endColumn": 37,
-                        "endOffset": 795
+                        "endOffset": 812
                     }
                 }
             },
@@ -695,7 +695,7 @@
                     "endOffset": 3702
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -715,13 +715,13 @@
                     "endOffset": 3752
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 712,
+                        "startOffset": 728,
                         "endColumn": 49,
-                        "endOffset": 757
+                        "endOffset": 773
                     }
                 }
             },
@@ -734,13 +734,13 @@
                     "endOffset": 3791
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 800,
+                        "startOffset": 818,
                         "endColumn": 38,
-                        "endOffset": 834
+                        "endOffset": 852
                     }
                 }
             },
@@ -753,13 +753,13 @@
                     "endOffset": 3838
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 839,
+                        "startOffset": 858,
                         "endColumn": 46,
-                        "endOffset": 881
+                        "endOffset": 900
                     }
                 }
             },
@@ -772,13 +772,13 @@
                     "endOffset": 3934
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1432,
+                        "startOffset": 1461,
                         "endColumn": 95,
-                        "endOffset": 1523
+                        "endOffset": 1552
                     }
                 }
             },
@@ -791,13 +791,13 @@
                     "endOffset": 3986
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 886,
+                        "startOffset": 906,
                         "endColumn": 51,
-                        "endOffset": 933
+                        "endOffset": 953
                     }
                 }
             },
@@ -811,7 +811,7 @@
                     "endOffset": 4271
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -832,7 +832,7 @@
                     "endOffset": 4596
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -852,13 +852,13 @@
                     "endOffset": 4640
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 938,
+                        "startOffset": 959,
                         "endColumn": 43,
-                        "endOffset": 977
+                        "endOffset": 998
                     }
                 }
             },
@@ -872,7 +872,7 @@
                     "endOffset": 4847
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -893,7 +893,7 @@
                     "endOffset": 5150
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -913,13 +913,13 @@
                     "endOffset": 5208
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1049,
+                        "startOffset": 1072,
                         "endColumn": 57,
-                        "endOffset": 1102
+                        "endOffset": 1125
                     }
                 }
             },
@@ -932,13 +932,13 @@
                     "endOffset": 5275
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 982,
+                        "startOffset": 1004,
                         "endColumn": 66,
-                        "endOffset": 1044
+                        "endOffset": 1066
                     }
                 }
             },
@@ -952,7 +952,7 @@
                     "endOffset": 5488
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -973,7 +973,7 @@
                     "endOffset": 5683
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -993,13 +993,13 @@
                     "endOffset": 5760
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1107,
+                        "startOffset": 1131,
                         "endColumn": 76,
-                        "endOffset": 1179
+                        "endOffset": 1203
                     }
                 }
             },
@@ -1013,7 +1013,7 @@
                     "endOffset": 5949
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -1034,7 +1034,7 @@
                     "endOffset": 6286
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -1054,13 +1054,13 @@
                     "endOffset": 6352
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1184,
+                        "startOffset": 1209,
                         "endColumn": 65,
-                        "endOffset": 1245
+                        "endOffset": 1270
                     }
                 }
             },
@@ -1073,13 +1073,13 @@
                     "endOffset": 6392
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/strings.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1250,
+                        "startOffset": 1276,
                         "endColumn": 39,
-                        "endOffset": 1285
+                        "endOffset": 1311
                     }
                 }
             },
@@ -1093,7 +1093,7 @@
                     "endOffset": 6503
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/values/styles.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1114,7 +1114,7 @@
                     "endOffset": 6684
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -1135,7 +1135,7 @@
                     "endOffset": 6977
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1156,7 +1156,7 @@
                     "endOffset": 7260
                 },
                 "from": {
-                    "file": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
+                    "file": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/values/values.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,

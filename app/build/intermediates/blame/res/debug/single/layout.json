@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/cardboard.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/cardboard.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/lstsceneiditem.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/lstsceneiditem.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/stitch.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/stitch.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/stitch.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/stitch.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/back_button.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/back_button.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/cardboard.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/cardboard.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/vseditor.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/vseditor.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/namevps.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/namevps.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/lstvpsfile.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/lstvpsfile.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/lstfileimageitem.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/lstfileimageitem.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/calibratepano.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/calibratepano.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/showpano.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/showpano.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/showpano.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/showpano.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/transition_view.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/namepano.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/namepano.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/lstsceneiditem.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/lstsceneiditem.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/lstfiletextitem.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/lstfiletextitem.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_view_embed.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/layout/ui_view_embed.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/namescene.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/namescene.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/ui_layer_with_portrait_support.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/ui_layer_with_portrait_support.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/main.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/vsbrowser.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/vsbrowser.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/vsbrowser.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/vsbrowser.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_view_embed.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/layout/ui_view_embed.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/namevps.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/namevps.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/calibratepano.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/calibratepano.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/lstfileimageitem.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/lstfileimageitem.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/vsgenerator.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/vsgenerator.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/namescene.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/namescene.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/setpano.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/setpano.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/nextpoint.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/nextpoint.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/vseditor.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/vseditor.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/setpano.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/setpano.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/back_button.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/ui_layer.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/lstvpsfile.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/lstvpsfile.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/vsgenerator.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/vsgenerator.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/transition_view.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/namepano.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/namepano.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/layout/ui_layer.xml"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/layout/lstfiletextitem.xml",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/src/main/res/layout/lstfiletextitem.xml"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/layout/nextpoint.xml",
+        "source": "/home/chix/Reporsitory/vCanvas/app/src/main/res/layout/nextpoint.xml"
     }
 ]

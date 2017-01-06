@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_back_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_back_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_info_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_info_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_downward_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_downward_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_back_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_back_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_upward_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_upward_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_upward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_upward_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_arrow_downward_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/common/unspecified/res/drawable-xxhdpi-v4/quantum_ic_arrow_downward_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_info_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_info_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png"
     },
     {
-        "merged": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png",
-        "source": "/Users/joseph/Documents/SFU/Lab-MultiMedia/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png"
+        "merged": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png",
+        "source": "/home/chix/Reporsitory/vCanvas/app/build/intermediates/exploded-aar/vCanvas/commonwidget/unspecified/res/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png"
     }
 ]
